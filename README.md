@@ -4,4 +4,4 @@
 
 ### Anastasia Mavrakis
 
-[Blumenstock Response] (https://github.com/anastasiamavrakis/workshop/blob/master/blumenstock.md)
+[Blumenstock Response] (https://github.com/anastasiamavrakis/workshop/blob/master/blumenstock.md) (Jan. 27)
