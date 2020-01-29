@@ -1,7 +1,7 @@
-# Evolving Solutions
+# Evolving Solutions - DATA 150
 
-## DATA 150
+## Anastasia Mavrakis
 
-### Anastasia Mavrakis
+### Reading Responses
 
-[Blumenstock Response](https://github.com/anastasiamavrakis/blumenstock) (Jan. 27)
+[Blumenstock Response](https://github.com/anastasiamavrakis/workshop/blumenstock) (Jan. 27)
