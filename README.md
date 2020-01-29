@@ -4,4 +4,4 @@
 
 ### Reading Responses
 
-[Blumenstock Response](anastasiamavrakis.github.io/workshop/blumenstock) (Jan. 27)
+[Blumenstock Response]() (Jan. 27)
