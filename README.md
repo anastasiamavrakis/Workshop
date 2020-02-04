@@ -6,4 +6,4 @@
 
 [Blumenstock Response](https://anastasiamavrakis.github.io/workshop/blumenstock) (Jan. 27)
 
-[Jahan Response](https://anastasiamavrakis.github.io/workshop/blumenstock) (Feb. 3)
+[Jahan Response](https://anastasiamavrakis.github.io/workshop/jahan) (Feb. 3)
