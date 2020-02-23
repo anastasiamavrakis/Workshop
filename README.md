@@ -10,4 +10,4 @@
 
 ### Assignments
 
-[Annotated Bibliography](
+[Annotated Bibliography](https://anastasiamavrakis.github.io/workshop/annotated_bibliography) (Feb. 23)
