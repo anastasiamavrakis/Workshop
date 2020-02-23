@@ -7,3 +7,7 @@
 [Blumenstock Response](https://anastasiamavrakis.github.io/workshop/blumenstock) (Jan. 27)
 
 [Jahan Response](https://anastasiamavrakis.github.io/workshop/jahan) (Feb. 3)
+
+### Assignments
+
+[Annotated Bibliography](
