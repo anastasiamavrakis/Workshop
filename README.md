@@ -8,7 +8,7 @@
 
 [Jahan Response](https://anastasiamavrakis.github.io/workshop/jahan) (Feb. 3)
 
-[Barden Resonse](https://anastasiamavrakis.github.io/workshop) (Feb. 18)
+[Barden Resonse](https://anastasiamavrakis.github.io/workshop/barden) (Feb. 18)
 
 ### Assignments
 
