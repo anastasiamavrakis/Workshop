@@ -1,3 +1,3 @@
 Anderson describes what he calls the "death of theory", what did he mean by this statement? In response, Kitchin offers a rebuttal to Anderson. What do you think? Has big data killed theory? 
 
-yes
+I don't believe that Big Data has necessarily killed theory and agree more with Kitchin's perspective. 
