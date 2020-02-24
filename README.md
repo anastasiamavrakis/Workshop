@@ -10,7 +10,7 @@
 
 [Barden Response](https://anastasiamavrakis.github.io/Workshop/barden) (Feb. 18)
 
-[Anderson and Kitchin Response](https://
+[Anderson and Kitchin Response](https://anastasiamavrakis.github.io/Workshop/andersonkitchin) (Feb. 24)
 
 ### Assignments
 
