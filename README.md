@@ -8,7 +8,7 @@
 
 [Jahan Response](https://anastasiamavrakis.github.io/Workshop/jahan) (Feb. 3)
 
-[Barden Response](https://anastasiamavrakis.github.io/Workshop/barden) (Feb. 18)
+[Barder Response](https://anastasiamavrakis.github.io/Workshop/barder) (Feb. 18)
 
 [Anderson and Kitchin Response](https://anastasiamavrakis.github.io/Workshop/andersonkitchin) (Feb. 24)
 
