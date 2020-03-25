@@ -12,6 +12,8 @@
 
 [Anderson and Kitchin Response](https://anastasiamavrakis.github.io/Workshop/andersonkitchin) (Feb. 24)
 
+[Stevens Response](https://anastasiamavrakis.github.io/Workshop/stevens) (Mar. 25)
+
 ### Assignments
 
 [Annotated Bibliography](https://anastasiamavrakis.github.io/Workshop/annotated_bibliography) (Feb. 23)
