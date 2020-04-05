@@ -14,6 +14,8 @@
 
 [Stevens Response](https://anastasiamavrakis.github.io/Workshop/stevens) (Mar. 25)
 
+[Nieves Response](https://anastasiamavrakis.github.io/Workshop/nieves) (Mar. 30)
+
 ### Assignments
 
 [Annotated Bibliography](https://anastasiamavrakis.github.io/Workshop/annotated_bibliography) (Feb. 23)
