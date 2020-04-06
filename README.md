@@ -20,4 +20,4 @@
 
 [Annotated Bibliography](https://anastasiamavrakis.github.io/Workshop/annotated_bibliography) (Feb. 23)
 
-[Literature Review](https://anastasiamavrakis.github.io/Workshop/literature_review) (Apr. 5) 
+[Literature Review](https://anastasiamavrakis.github.io/Workshop/literature_review) (Apr. 5)
