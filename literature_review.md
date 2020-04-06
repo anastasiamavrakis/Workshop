@@ -30,7 +30,7 @@ Lastly, it is important to mention Akinyemi’s assessment of how spatial data i
 
 ## Discussion
 
-	Overall, there are many proposed data methods for how to revolutionize human development in Rwanda, in particular how to address the significant issues of poverty and food insecurity. My progress thus far has been narrowing down the most promising and well-supported data science models, and as I continue I hope to narrow it down even further to compare the models, such as the benefits of ArcGIS analysis versus a transfer learning model. I do believe a gap in the literature exists, as Akinyemi mentioned that there is still very limited public access to a majority of spatial information. Making more of this information publicly accessible is how I believe that the gap will be closed and even more models can be proposed to find a solution for Rwanda’s struggles with food insecurity and poverty.
+Overall, there are many proposed data methods for how to revolutionize human development in Rwanda, in particular how to address the significant issues of poverty and food insecurity. My progress thus far has been narrowing down the most promising and well-supported data science models, and as I continue I hope to narrow it down even further to compare the models, such as the benefits of ArcGIS analysis versus a transfer learning model. I do believe a gap in the literature exists, as Akinyemi mentioned that there is still very limited public access to a majority of spatial information. Making more of this information publicly accessible is how I believe that the gap will be closed and even more models can be proposed to find a solution for Rwanda’s struggles with food insecurity and poverty.
 
 ## References
 
