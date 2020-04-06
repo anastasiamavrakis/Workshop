@@ -1,4 +1,4 @@
-### How CNNs, CDRs, and ArcGIS Will Revolutionize Poverty and Food Insecurity in Rwanda
+# How CNNs, CDRs, and ArcGIS Will Revolutionize Poverty and Food Insecurity in Rwanda
 
 ## Introduction
 
@@ -34,14 +34,23 @@ Overall, there are many proposed data methods for how to revolutionize human dev
 
 ## References
 
-Akinyemi, F. (2010). A conceptual poverty mapping data model. Transactions in GIS, 14, 85-100. doi:10.1111/j.1467-9671.2010.01207.x
-Akinyemi, F., & Bigirimana, F. (2012). A spatial analysis of poverty in KIGALI, Rwanda using indicators of household living standard. KIST Journal of Science and Technology.
-Akinyemi, F., & Uwayezu, E. (2011). An Assessment of the Current State of Spatial Data Sharing in Rwanda. International Journal of Spatial Data Infrastructures Research, 6, 365-387.
-Habyarimana, Zewotir, & Ramroop. (2015). Analysis of demographic and health survey to measure poverty of household in Rwanda. African Population Studies, 29.
-J, C. B., U, G. W., I, N., F, O. K., & W, G. (2015). Rainwater harvesting potential for crop production in the BUGESERA District of Rwanda. African Journal of Agricultural Research, 10(19), 2020-2031. doi:10.5897/ajar12.820
-Jean, N., Burke, M., Xie, M., Davis, W. M., Lobell, D. B., & Ermon, S. (2016). Combining satellite imagery and machine learning to predict poverty. Science. doi:10.1126/science.aaf7894
-Muhire, I., Ahmed, F., Abutaleb, K., & Kabera, G. (2015). Impacts of projected changes and variability in climatic data on major food crops yields in Rwanda. International Journal of Plant Production.
-N., D., K.V., R., J., M., & Sharma, A. (2018). The study of dietary diversity score in children between 6 months to 23 months: A hospital based study. International Journal of Contemporary Pediatrics. http://dx.doi.org/10.18203/2349-3291.ijcp20181541
-Njuguna, C., & McSharry, P. (2017). Constructing spatiotemporal poverty indices from big data. Journal of Business Research. doi:https://doi.org/10.1016/j.jbusres.2016.08.005
-Stöcker, C., Ho, S., Nkerabigwi, P., Schmidt, C., Koeva, M., Bennett, R., & Zevenbergen, J. (2019). Unmanned aerial System Imagery, land data and user needs: A Socio-Technical assessment in Rwanda. Remote Sensing, 11(9), 1035. doi:10.3390/rs11091035
+1. Akinyemi, F. (2010). A conceptual poverty mapping data model. Transactions in GIS, 14, 85-100. doi:10.1111/j.1467-9671.2010.01207.x
+
+2. Akinyemi, F., & Bigirimana, F. (2012). A spatial analysis of poverty in KIGALI, Rwanda using indicators of household living standard. KIST Journal of Science and Technology.
+
+3. Akinyemi, F., & Uwayezu, E. (2011). An Assessment of the Current State of Spatial Data Sharing in Rwanda. International Journal of Spatial Data Infrastructures Research, 6, 365-387.
+
+4. Habyarimana, Zewotir, & Ramroop. (2015). Analysis of demographic and health survey to measure poverty of household in Rwanda. African Population Studies, 29.
+
+5. J, C. B., U, G. W., I, N., F, O. K., & W, G. (2015). Rainwater harvesting potential for crop production in the BUGESERA District of Rwanda. African Journal of Agricultural Research, 10(19), 2020-2031. doi:10.5897/ajar12.820
+
+6. Jean, N., Burke, M., Xie, M., Davis, W. M., Lobell, D. B., & Ermon, S. (2016). Combining satellite imagery and machine learning to predict poverty. Science. doi:10.1126/science.aaf7894
+
+7. Muhire, I., Ahmed, F., Abutaleb, K., & Kabera, G. (2015). Impacts of projected changes and variability in climatic data on major food crops yields in Rwanda. International Journal of Plant Production.
+
+8. N., D., K.V., R., J., M., & Sharma, A. (2018). The study of dietary diversity score in children between 6 months to 23 months: A hospital based study. International Journal of Contemporary Pediatrics. http://dx.doi.org/10.18203/2349-3291.ijcp20181541
+
+9. Njuguna, C., & McSharry, P. (2017). Constructing spatiotemporal poverty indices from big data. Journal of Business Research. doi:https://doi.org/10.1016/j.jbusres.2016.08.005
+
+10. Stöcker, C., Ho, S., Nkerabigwi, P., Schmidt, C., Koeva, M., Bennett, R., & Zevenbergen, J. (2019). Unmanned aerial System Imagery, land data and user needs: A Socio-Technical assessment in Rwanda. Remote Sensing, 11(9), 1035. doi:10.3390/rs11091035
 
