@@ -21,3 +21,5 @@
 [Annotated Bibliography](https://anastasiamavrakis.github.io/Workshop/annotated_bibliography) (Feb. 23)
 
 [Literature Review](https://anastasiamavrakis.github.io/Workshop/literature_review) (Apr. 5)
+
+[Assignment 3](https://anastasiamvavrakis.github.io/Workshop/assignment3) (Apr. 19)
